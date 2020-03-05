@@ -29,3 +29,7 @@ Copy drawable icons obtained from designer to Android Studio project
 
 #### More info please check `--help`.
 
+#### Caveat:
+It only scan mdpi, hdpi, xhdpi, xxhdpi, and xxxhdpi, you should edit `drawable_valid_path_l_proj` and `drawable_valid_path_l_designer` tuples if want to add more.
+
+
