@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # The MIT License (MIT)
-# Copyright (c) 2019 limkokhole@gmail.com
+# Copyright (c) 2020 limkokhole@gmail.com
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -21,9 +21,9 @@
 # OR OTHER DEALINGS IN THE SOFTWARE.
 
 __author__ = 'Lim Kok Hole'
-__copyright__ = 'Copyright 2019'
+__copyright__ = 'Copyright 2020'
 __license__ = 'MIT'
-__version__ = 1.1
+__version__ = 1.0
 __maintainer__ = 'Lim Kok Hole'
 __email__ = 'limkokhole@gmail.com'
 __status__ = 'Production'
